@@ -1,4 +1,6 @@
-﻿'use strict'; // kötött mód, szigorúbbak a szabályok, érdemes használni
+﻿// ez a file a javascript alapokat tartalmazza, nem az app resze
+
+'use strict'; // szigoru mód, szigorúbbak a szabályok, érdemes használni
 
 console.log("Hello bazmeg");
 
