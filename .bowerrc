@@ -1,3 +1,5 @@
 {
-	"directory" : "static/bower_components"
+  "//"	: "a bower config file-ja, itt allitjuk be a bower_components mappat",
+  "//"	: "a  bower-t hasznaljuk arra hogy a frontend csomagokat letoltsuk",
+  "directory" : "static/bower_components"
 }

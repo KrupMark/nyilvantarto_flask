@@ -1,3 +1,6 @@
+"//": "ezt a file-t a bower inittel generaltuk",
+"//": "tartalmazza a frontend fuggosegeket",
+"//": "telepiteni a bower install parancsal lehet",
 {
   "name": "jquery",
   "main": "dist/jquery.js",

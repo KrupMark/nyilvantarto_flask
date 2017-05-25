@@ -1,6 +1,6 @@
 git beallitasa:
-  git telepitese:
-
+git telepitese:
+````
 apt install git
 ````
 #git alap beallitasa:
