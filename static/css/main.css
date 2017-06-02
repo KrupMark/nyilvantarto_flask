@@ -1,20 +1,22 @@
-﻿.menu-item {
+.menu-item {
     margin: 10px 5px 10px 5px;
 }
 
 .row-centered {
-    text-align: center;
+    text-align:center;
 }
 
 .col-centered {
-    float: none;
+    float:none;
 }
-
 .menu-row {
     margin-top: 20px;
 }
 
 .content {
-    background-color: #e8f1ff;
+background-color: #e8f1ff;
 }
 
+.inactive-content {
+    display:none;
+}

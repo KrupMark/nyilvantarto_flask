@@ -1,0 +1,12 @@
+ctrl+shift+p> sublime linter settings: USER
+
+tartalma:
+{
+"esnext":true,
+"strict": false,
+"node": true,
+"browser": true,
+"jquery": true,
+"devel": true,
+"predef": ["angular"]
+}

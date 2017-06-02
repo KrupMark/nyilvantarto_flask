@@ -1,17 +1,14 @@
-"//": "ezt a file-t a bower inittel generaltuk",
-"//": "tartalmazza a frontend fuggosegeket",
-"//": "telepiteni a bower install parancsal lehet",
 {
-  "name": "jquery",
-  "main": "dist/jquery.js",
+  "//": "ezt a file-t a bower inittel generáltuk", 
+  "//": "tartalmazza a frontend függőségeket", 
+  "//": "telepiteni a bower install paranccsal lehet", 
+  "name": "nyilvantarto",
+  "description": "nyilvantarosdlfgkjsdg",
+  "main": "",
   "license": "MIT",
-  "ignore": [
-    "package.json"
-  ],
-  "keywords": [
-    "jquery",
-    "javascript",
-    "browser",
-    "library"
-  ]
+  "homepage": "sdsdf.hu",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
