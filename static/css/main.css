@@ -28,14 +28,24 @@ background-color: #e8f1ff;
     border-radius: 5px;
 }
 .remove {
+    float: left;
     display: inline-block;
     padding: 1px 8px;
     border-radius: 5px;
-    float: left;
 }
 .munkaora {
     width:100%;
 }
 .datum_mezo {
     width:100%;
+}
+.savegomb {
+    float: right;
+    margin:10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.new_munkanap {
+    margin-bottom: 10px;
+    margin-left: 5px;
 }
